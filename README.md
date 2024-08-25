@@ -5,9 +5,9 @@ Hey, this is
 
 
 
-- 👨‍💻 Visit my portfolio **[https://vilbrabad.github.io/portFolio/](https://vilbrabad.github.io/portFolio/)**
+- 👨‍💻 Visit my portfolio **[https://vilas-steel.vercel.app/](https://vilas-steel.vercel.app/)**
 - 📫 How to reach me **vilasrabad343@gmail.com**
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1BdYEH9drJAihqnUA6e9Cer-9H59tkJA_/view?usp=drive_link)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1AqJsvJ8Q6mTNhcCtvU965E_FR_9XHsDb/view)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
